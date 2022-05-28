@@ -1,3 +1,5 @@
+const prompt = require("prompt-sync")({ sigint: true });
+
 // funciones
 
 function sumar (n1,n2){
